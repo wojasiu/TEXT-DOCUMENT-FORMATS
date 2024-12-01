@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="Car" fuel="Petrol">
+        <brand>Mazda</brand>
+        <model>3</model>
+        <year>2004</year>
+        <seatingCapacity>5</seatingCapacity>
+    </vehicle>
+
+    <vehicle type="Bike" fuel="Electric">
+        <brand>Fiido</brand>
+        <model>C23 </model>
+        <year>2024</year>
+        <range>96.74 km</range>
+    </vehicle>
+    <vehicle type="Bus" fuel="Diesel">
+        <company>Mercedez</company>
+        <routeNumber>152</routeNumber>
+        <year>2012</year>
+        <seatingCapacity>50</seatingCapacity>
+    </vehicle>
+</transport>

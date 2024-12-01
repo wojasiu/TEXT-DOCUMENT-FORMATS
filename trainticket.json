@@ -1,0 +1,25 @@
+{
+    "ticketID": "A12345B",
+    "trainNumber": "IC 2412",
+    "departure": {
+        "station": "Warsaw Central",
+        "time": "2024-12-05T08:30:00",
+        "platform": 5
+    },
+    "arrival": {
+        "station": "Kraków Main",
+        "time": "2024-12-05T12:15:00",
+        "platform": 3
+    },
+    "passenger": {
+        "name": "Zohrab Asatryan",
+        "age": 29,
+        "seatClass": "First",
+        "ticketType": "Single"
+    },
+    "price": 180.50,
+    "isRoundTrip": false,
+    "isCancellable": true,
+    "trainType": "InterCity",
+    "isWiFiAvailable": true
+}

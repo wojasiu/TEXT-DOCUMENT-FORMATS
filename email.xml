@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>
+        <name>Wojas W</name>
+        <emailAddress>wojasw04@mail.com</emailAddress>
+    </sender>
+
+    <recipient>
+        <name>Adama B</name>
+        <emailAddress>adam123@mail.com</emailAddress>
+    </recipient>
+    
+
+    <subject> Wiadmosc </subject>
+    <messageBody>
+      Hej Adam
+    </messageBody>
+</email>
